@@ -10,10 +10,10 @@ A React app that displays various types of aesthetically pleasing and dope clock
 - sun turns into moon over time
 
 ### Inspiration:
-![lofi-vaporwave](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/c5285b63-a620-4918-b2d4-b244bd6a9739)
-![sunset-skyline](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/09eede88-ff39-4958-8636-16c94e2a9967)
-![sunset-lofi-skyline](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/460fdea9-0e98-4708-a76d-6cd3483aec70)
 
+![lofi-vaporwave](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/d218b72b-13a6-446d-a491-ca6a7ad7207b)
+![sunset-skyline](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/5c7d0efb-4cce-46f0-8a17-48198db6d1b8)
+![sunset-lofi-skyline](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/9ae2174a-80ca-4e14-9ba1-7f982d7baed2)
 
 ### Word Clock:
  - clock that displays the time using words instead of numbers. Each word represents a specific time unit (e.g., "quarter past," "half past," "quarter to").
@@ -21,7 +21,7 @@ A React app that displays various types of aesthetically pleasing and dope clock
 
 ### Inspiration:
 
-![7sltl7](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/6fddcdd3-2dec-480d-a7db-b0aa6b531402)
+![7sltl7](https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/fe4db3b8-eaf0-4a05-8b0c-8ed61f45cbb7)
 
 ### Simple Digital Flip Clock:
 - Simple Aesthetic Flip Clock
@@ -32,6 +32,7 @@ A React app that displays various types of aesthetically pleasing and dope clock
 
 [Flip Clock](https://flipclock.tk/)
 
-https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/5511c083-f451-4a55-852a-e6ee7573665b
+https://github.com/MalonHolmes/tick-tock-clocks-dashboard/assets/49072977/a4890078-b2ae-446a-8217-0501aba0e432
+
 
 
